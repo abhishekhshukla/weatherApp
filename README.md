@@ -1,6 +1,6 @@
 ### Weather-App
 
-React weather application worked on react using Open Weather API.
+
 
 ## A wether forecast app using react.js 
 ### Used api of openweaterh.org API key which take country and city as key and return all wether details of cit.
