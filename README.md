@@ -3,7 +3,7 @@
 
 
 ## A wether forecast app using react.js 
-### Used api of openweaterh.org API key which take country and city as key and return all wether details of cit.
+### Used api of openweather.org  which take country and city as key and return all wether details of city.
 ### Used react bootstrap for front end building.
 
 ## To Run Project
